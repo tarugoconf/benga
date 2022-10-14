@@ -34,11 +34,20 @@ La Resistencia está entrenando a agentes para convertirles en jugadores invenci
 ## Contenido del juego
 
 * 54 piezas de Benga, 27 azules y 27 amarillas
-* App para ejecutar la malvada IA, tanto en terminales [Android](https://play.google.com/store/apps/details?id=com.Bonillaware.Benga) como [iOS](https://apps.apple.com/app/tarugoconf-benga/id6443456459).
+* App para ejecutar la malvada IA.
 
 ## Preparación de la Partida
 
-* TBD
+* Si quieres jugar con la IA activada, descarga la app del juego en tu móvil [Android](https://play.google.com/store/apps/details?id=com.Bonillaware.Benga) o [iOS](https://apps.apple.com/app/tarugoconf-benga/id6443456459).
+* Monta la torre de piezas en una superficie plana y lisa, apilando diferentes capas de 3 piezas, contrapeadas unas con otras, siguiendo algunos de los estilos canónicos:
+    * ***Alla* Flipper**: por capas completas de color, empezando por una amarilla, siguiendo por una azul y alternándolas así hasta completar la torre. 
+    * **Modo Jeroclo**: colocando en la base de la torre 9 capas de piezas amarillas y coronándola con 9 capas de piezas azules.
+    * **Benno Benga**: mezclando las piezas azules y amarillas a tu gusto.
+
+<p align="center">
+    <img alt="Apilar tu Benga" title="Apilar tu Benga" src="https://github.com/tarugoconf/benga/blob/main/benga_stacking.jpg?raw=true" width="400">
+</p>
+
 
 ## Partida
 
