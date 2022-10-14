@@ -13,6 +13,7 @@ Estas son **las reglas básicas de «Benga»**, el juego de piezas apilables cre
 - [Partida](#partida)
 - [Fin de turno](#fin-de-turno)
 - [Fin de la partida](#fin-de-la-partida)
+- [Modo Martin Varsavsky](#modo-martín-varsavsky)
 - [Cómo proponer un cambio](#cómo-proponer-un-cambio)
 - [Change Log](#change-log)
 - [Autores](#autores)
@@ -29,7 +30,7 @@ La Resistencia está entrenando a agentes para convertirles en jugadores invenci
 
 ## Objetivo del juego
 
- Debes **extraer piezas y colocarlas de nuevo** en la Benga —o torre de piezas apiladas— siguiendo las instrucciones de la malvada IA del Comandante Jeroclo hasta que la torre se derrumbe, intentando que no sea en tu turno.
+Debes **extraer piezas y colocarlas de nuevo** en la Benga —o torre de piezas apiladas— siguiendo las instrucciones de la malvada IA del Comandante Jeroclo hasta que la torre se derrumbe, intentando que no sea en tu turno.
 
 ## Contenido del juego
 
@@ -38,32 +39,45 @@ La Resistencia está entrenando a agentes para convertirles en jugadores invenci
 
 ## Preparación de la Partida
 
-* Si quieres jugar con la IA activada, descarga la app del juego en tu móvil [Android](https://play.google.com/store/apps/details?id=com.Bonillaware.Benga) o [iOS](https://apps.apple.com/app/tarugoconf-benga/id6443456459).
-* Monta la torre de piezas en una superficie plana y lisa, apilando diferentes capas de 3 piezas, contrapeadas unas con otras, siguiendo algunos de los estilos canónicos:
-    * ***Alla* Flipper**: por capas completas de color, empezando por una amarilla, siguiendo por una azul y alternándolas así hasta completar la torre. 
-    * **Modo Jeroclo**: colocando en la base de la torre 9 capas de piezas amarillas y coronándola con 9 capas de piezas azules.
-    * **Benno Benga**: mezclando las piezas azules y amarillas a tu gusto.
+* Si quieres jugar con la IA activada, descarga la app del juego en tu móvil [Android](https://play.google.com/store/apps/details?id=com.Bonillaware.Benga) o [iOS](https://apps.apple.com/app/tarugoconf-benga/id6443456459) y pulsa el botón «Jugar»
+
 
 <p align="center">
-    <img alt="Apilar tu Benga" title="Apilar tu Benga" src="https://github.com/tarugoconf/benga/blob/main/benga_stacking.jpg?raw=true" width="400">
+    <img alt="Jugar al Benga" title="Jugar al Benga" src="https://github.com/tarugoconf/benga/blob/main/benga_jugar.png?raw=true" width="400">
 </p>
+
+
+* Monta la torre de piezas en una superficie plana y lisa, apilando diferentes capas de 3 piezas, contrapeadas unas con otras, siguiendo algunos de los estilos canónicos:
+    * ***Alla* Flipper**: por capas completas de color, empezando por una amarilla, siguiendo por una azul y alternándolas así hasta completar la torre. 
+    * **Crazy Jeroclo**: colocando en la base de la torre 9 capas de piezas amarillas y coronándola con 9 capas de piezas azules.
+    * **Benno Benga**: mezclando las piezas azules y amarillas a tu gusto.
 
 
 ## Partida
 
-* TBD
+* Empieza el jugador o jugadora más joven, después el siguiente más joven y así hasta el más mayor, después del cuál volverá a jugar el más joven.
+* Al inicio de su turno, cada jugador usará la app para recibir instrucciones de la malvada IA, pulsando el botón «Probar Suerte!»
+
+<p align="center">
+    <img alt="Probar Suerte" title="Probar Suerte" src="https://github.com/tarugoconf/benga/blob/main/benga_suerte.png?raw=true" width="400">
+</p>
+
 
 ## Fin de turno
 
-* TBD
+* El turno finalizará cuando el jugador coloque en la parte superior de la torre la pieza o piezas que ha extraido previamente, siguiendo las instrucciones de la IA.
 
 ## Fin de la partida
 
-* TBD
+* Cuando solo quede uno de los jugadores que no haya derrumbado la torre, se proclamará ganador o ganadora de la partida.
+
+## Modo Martín Varsavsky
+
+Las normas no están hechas para ti. Coloca las piezas como te de la gana y juega sin tener en cuenta la IA, cogiendo cualquier pieza que quieras.
 
 ## Cómo proponer un cambio
 
-Si quieres proponer algún cambio, te animamos a que hagas un *fork* de este repositorio y, después -si crees que has introducido modificaciones que podrían mejorar la experiencia de juego- [crea un pull request de tu fork](https://help.github.com/articles/creating-a-pull-request-from-a-fork/).
+Si quieres proponer algún cambio, te animamos a que hagas un *fork* de este repositorio y, después —si crees que has introducido modificaciones que podrían mejorar la experiencia de juego— [crea un pull request de tu fork](https://help.github.com/articles/creating-a-pull-request-from-a-fork/).
 
 Revisaremos los cambios y, si tienen sentido, los incorporaremos a la versión principal del juego y acreditaremos tu aportación. ¡Gracias por adelantado por tu colaboración!
 
