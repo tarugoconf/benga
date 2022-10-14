@@ -21,20 +21,36 @@ Estas son **las reglas básicas de «Benga»**, el juego de piezas apilables cre
 
 ## La Historia del Benga
 
-En el año 2038, el informático [Jerónimo López](https://twitter.com/jerolba) implementó una Inteligencia Artificial que le permitió **hacerse con el control de todos los ordenadores del mundo y se convirtió en dictador supremo de la Tierra***. Todos los intentos de la Resistencia por hacer frente al «Comandante Jeroclo» —como Jerónimo se hizo llamar después del golpe— han sido aplastados. Su único punto debil es su afición por el Benga, un juego de piezas apilables que se regaló a los asistentes de la Tarugoconf en el lejano 2022.
+En el año 2038, el informático [Jerónimo López](https://twitter.com/jerolba) implementó una Inteligencia Artificial que le permitió **hacerse con el control de todos los ordenadores del mundo y se convirtió en dictador supremo de la Tierra***. Todos los intentos de la Resistencia por hacer frente al «Comandante Jeroclo» —como Jerónimo se hizo llamar después del golpe— han sido aplastados.
 
-El Comandante Jeroclo organiza campeonatos de Benga en su mansión de Santander, desde donde rige los dominios del mundo protegido por un ejercito de ciborgs. Para atraer a los mejores jugadores del mundo, ha prometido que **si alguien es capaz de vencerlo le entregará el control de su poderosa IA**. Por el contrario, los perdedores son condenados a una muerte horrible por empacho de sobaos pasiegos. Hasta ahora, nadie ha conseguido derrotarlo.
+Su único punto debil es su afición por el Benga, un juego de piezas apilables que se regaló a los asistentes de la Tarugoconf en el lejano 2022. El Comandante Jeroclo organiza campeonatos de Benga en su mansión de Santander, desde donde rige los dominios del mundo protegido por un ejercito de ciborgs. Para atraer a los mejores jugadores del mundo, ha prometido que **si alguien es capaz de vencerlo le entregará el control de su poderosa IA**. Por el contrario, los perdedores son condenados a una muerte horrible por empacho de sobaos pasiegos. Hasta ahora, nadie ha conseguido derrotarlo.
 
 La Resistencia está entrenando a agentes para convertirles en jugadores invencibles de Benga y derrocar al tirano. Tú eres uno de ellos.
 
 ## Objetivo del juego
 
- Debes **extraer piezas y colocarlas de nuevo** en la Benga —o torre de piezas apiladas— siguiendo las instrucciones de la malvada IA del Comandante Jeroclo hasta que la torre se derrumbe.
+ Debes **extraer piezas y colocarlas de nuevo** en la Benga —o torre de piezas apiladas— siguiendo las instrucciones de la malvada IA del Comandante Jeroclo hasta que la torre se derrumbe, intentando que no sea en tu turno.
 
 ## Contenido del juego
 
 * 54 piezas de Benga, 27 azules y 27 amarillas
 * App para ejecutar la malvada IA, tanto en terminales [Android](https://play.google.com/store/apps/details?id=com.Bonillaware.Benga) como [iOS](https://apps.apple.com/app/tarugoconf-benga/id6443456459).
+
+## Preparación de la Partida
+
+* TBD
+
+## Partida
+
+* TBD
+
+## Fin de turno
+
+* TBD
+
+## Fin de la partida
+
+* TBD
 
 ## Cómo proponer un cambio
 
@@ -64,9 +80,13 @@ Este juego ha sido creado por:
 
 Muchas gracias a todos los que hicieron posible que una locura como Benga se convirtiera en realidad:
 
-* [Allison Salcedo](https://twitter.com/javisam), de [mibaraja.com](http://www.mibaraja.com/), por sus consejos y asesoramiento, sin el cuál no hubiera sido posible sacar adelante este proyecto.
+* [Allison Salcedo](https://www.getmanfred.com/es/blog/hello-my-name-is-allison), por remover tierra y cielo hasta conseguir las miles de piezas azules y amarillas necesarias para producir el juego.
 * [Candela Milán](https://twitter.com/candelamd), por su infinita paciencia y apoyo a todas las locuras de David, incluida esta.
 * A todos los amigos que han aparecido en las cartas, por su cariño y confianza.
 
 **Hecho con ❤️ y (poco) sentidiño en Galicia, Bizkaia y Madriz**.
 
+
+<p align="center">
+    <img alt="Benga" title="Logo del Benga" src="https://github.com/tarugoconf/benga/blob/main/Juego%20Benga%20Jenga%20MAQUETA%20PRODUCCION%20SOBRE%20PLANTILLA.png?raw=true">
+</p>
