@@ -71,7 +71,7 @@ Debes **extraer piezas y colocarlas de nuevo** en la Benga —o torre de piezas 
 
 * Cuando solo quede uno de los jugadores que no haya derrumbado la torre, se proclamará ganador o ganadora de la partida.
 
-## Modo Martín Varsavsky
+## Modo Paris Saint Germain
 
 Las normas no están hechas para ti. Coloca las piezas como te de la gana y juega sin tener en cuenta la IA, cogiendo cualquier pieza que quieras.
 
