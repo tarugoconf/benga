@@ -13,7 +13,7 @@ Estas son **las reglas básicas de «Benga»**, el juego de piezas apilables cre
 - [Partida](#partida)
 - [Fin de turno](#fin-de-turno)
 - [Fin de la partida](#fin-de-la-partida)
-- [Modo Martin Varsavsky](#modo-paris-saint-germain)
+- [Modo Paris Saint Germain](#modo-paris-saint-germain)
 - [Cómo proponer un cambio](#cómo-proponer-un-cambio)
 - [Change Log](#change-log)
 - [Autores](#autores)
